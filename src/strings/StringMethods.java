@@ -28,7 +28,7 @@ public class StringMethods {
         //trim function(method)
         String s ="    java is cool    ";
         System.out.println(s);
-        System.out.println(s.trim());
+        System.out.println(s.trim());  //removes spaces from right and left 
         
         
         
