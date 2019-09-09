@@ -12,3 +12,11 @@
 
 //		class	object variable =  instance
 //		Employee emp1 = new Employee();  //object creation
+
+
+              METHOD		    vs.					 CONSTRUCTOR
+   name can be anything                     	name same as class name
+   call explicitly through object reference     will be invoked at the time of object creation
+   contains  logic								contains initializations
+   can return some value						not return any value
+   
