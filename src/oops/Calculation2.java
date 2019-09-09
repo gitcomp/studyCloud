@@ -8,6 +8,7 @@ Then create another method ‘sum’ to calculate sum of 3 numbers.
 Now, create object and call constructor by passing 3 integer values then call sum method.
  */
 
+
 public class Calculation2 {
 
 	int a, b, c;
