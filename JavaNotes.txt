@@ -20,3 +20,25 @@
    contains  logic								contains initializations
    can return some value						not return any value
    
+   
+   INHERITENCE: acquiring all the properties(attributes) and behaviors(methods) 
+   				from one class to another class is called inheritance. 
+   				1.single:		 one parent, one child
+   				2.multi-level: one parent, multiple children, each child extends the one before
+   				3.hierarchical:one parent, multiple children. each child independent, extends parent individually
+   				4.multiple: one child can have multiple parents!
+   				5.hybrid: hier+multiple: one parent, multiple children AND one child multiple parents
+   	class concept allows 1,2 and 3 types inheritances.
+   	
+   	INTERFACE allows to do multiple and hybrid.
+   	for ex: we can not say
+   	        class child1 extends Parnet1, Parent2;
+   	
+   				
+   				
+   				
+   				
+   				
+   				
+   				
+   				
