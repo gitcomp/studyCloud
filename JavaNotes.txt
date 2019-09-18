@@ -34,11 +34,16 @@
    	for ex: we can not say
    	        class child1 extends Parnet1, Parent2;
    	
-   				
-   				
-   				
-   				
-   				
+   	````````````````````````````````````````````
+   	super keyword: used in inheritance only?
+   	1. refer immediate parent class instance variable(we can also override variables)
+   	2. invoke immediate parent class method 
+   	
+   `````````````````````````````````````````````
+   final keyword: used for var, method and class.	
+   1. final int =100; you can not change it later
+   2. final eat(); you can not override in child class
+   3. final Parent{}; you can not extend that class to another class.   				
    				
    				
    				
