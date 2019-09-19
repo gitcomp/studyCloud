@@ -44,6 +44,21 @@
    1. final int =100; you can not change it later
    2. final eat(); you can not override in child class
    3. final Parent{}; you can not extend that class to another class.   				
+   ``````````````````````````````````````````````````````````
    				
+   INTERFACE:a blueprint of class
+   			 by default has final and static variables					
+   			 has abstract method(no body no logic, just definition=signature)
+   			 support multiple inheritance and hybrid inheritance
+   			 we use keyword 'interface' to define interface
+   			 all methods are 'public' by default
+   	if you know the requirement but not yet know the design, we use interface.		   				
+   				
+  `````````````````````````````````````````````````````````````````````````
+  4 types of access modifiers:
+  public:open 
+  default: within the package
+  protected:
+  private:
    				
    				
