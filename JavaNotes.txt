@@ -55,10 +55,19 @@
    	if you know the requirement but not yet know the design, we use interface.		   				
    				
   `````````````````````````````````````````````````````````````````````````
-  4 types of access modifiers:
-  public:open 
-  default: within the package
-  protected:
-  private:
-   				
+   import packagename.classname		
+
+````````````````````````````````````````
+ACCESS MODIFIERS: 4 types of access modifiers:
+ 
+ public : class, package, other packets directly.
+ 
+ protected:class, package, different package with inheritance only  
+ default: class, package
+ private: class
+
+
+
+
+
    				
