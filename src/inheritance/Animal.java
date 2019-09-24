@@ -8,7 +8,7 @@ public class Animal {
 	String color = "white";
 	
 	void eating() {
-		System.out.println("eating...........");
+		System.out.println("eating............");
 	}
 }
 	
