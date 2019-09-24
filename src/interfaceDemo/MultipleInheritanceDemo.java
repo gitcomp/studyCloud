@@ -21,7 +21,7 @@ public class MultipleInheritanceDemo implements ABC, XYZ {
 	   System.out.println(x);
    }
 	
-	public void m2() {
+	public void m2(){
 		System.out.println(y);
 	}
    

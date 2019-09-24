@@ -18,7 +18,7 @@ public class Test implements A {
 //	A a = new A(); //not possible
 
 		//A t = new Test();
-		Test t = new Test(); //same as above
+		Test t = new Test();  //same as above
 		t.m1();
 		
 	}
