@@ -17,7 +17,7 @@ class Dog extends Animal {
 	
 	void eating() {  //overriding method
 		System.out.println("eating bread...");
-		super.eating(); //eating..............
+		super.eating(); //eating................
 	}
 	
 	
