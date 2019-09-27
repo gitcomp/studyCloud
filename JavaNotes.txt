@@ -64,9 +64,35 @@ ACCESS MODIFIERS: 4 types of access modifiers:
  
  protected:class, package, different package with inheritance only  
  default: class, package
- private: class
+ private: within class
 
+```````````````````````````````````````````````````````````````````````````````
+ERRORS:
+1.Syntax error: user mistakes, a typo, may be forget to type any letter, semicolon etc..
+				not compile , not execute
+				user can easily fix this error.
+				ex: Syntax error, insert ";" to complete BlockStatements
+				
+2.Logical error: will compile and execute but in the run time you get incorrect output  
+				 developer makes logical error 2+3=8 for example.
+				 
+EXCEPTIONS: occur at the runtime based on the user input.
+ 	        exception is an event that disrupts the normal flow of the program.
+ 	        means: when exception occurs, the rest of the program will not execute.
+ 	        is an abnormal condition/event which will terminate program execution.
 
+EXCEPTION HANDLING: to fix the code so that the program will continue      
+ 	          
+1.Checked exceptions: checked/identified by compiler
+						InterruptedException
+						IOException
+						FileNotFoundException
+						
+2. Unchecked Exception: not checked/identified by compiler
+						ArithmeticException
+						NullPointerException
+						ArrayIndexOutOFBoundsException
+												
 
 
 
