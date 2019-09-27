@@ -87,12 +87,14 @@ EXCEPTION HANDLING: to fix the code so that the program will continue
 						InterruptedException
 						IOException
 						FileNotFoundException
+	throws keyword used only for checked exceptions	
+	can be handled by using try/catch AND throws keyword				
 						
 2. Unchecked Exception: not checked/identified by compiler
 						ArithmeticException
 						NullPointerException
 						ArrayIndexOutOFBoundsException
-												
+     can be handled by using ONLY try/catch 												
 
 
 
